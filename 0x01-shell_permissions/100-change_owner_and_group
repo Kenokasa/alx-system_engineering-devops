@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod 770
+chown vincent:staff*
