@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1t | haed -10
+ls -lt | haed -10
