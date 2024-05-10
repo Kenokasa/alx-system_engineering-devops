@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#this is gone get the list of socket connected and print
+netstat -l
+netstat -p
